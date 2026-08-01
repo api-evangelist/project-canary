@@ -1,9 +1,31 @@
 aid: project-canary
 name: Project Canary
-description: Project Canary is a company surfaced as a portfolio company of insight-partners, techstars
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Project Canary is a Denver-based climate technology company that helps oil and gas
+  operators and natural gas utilities turn methane emissions data into operational
+  intelligence. Founded in 2019, its Canary SENSE platform unifies measurement data
+  from sensors, satellites, aircraft, SCADA, and field teams into a single view that
+  drives decisions, reduces costs, and supports regulatory reporting (OGMP 2.0 and
+  other frameworks). The company builds high-precision methane detection hardware
+  (Canary RECON, Aeris PICO) and a proprietary predictive emissions model (methaneML)
+  trained on a multi-year, high-fidelity methane dataset, serving upstream and midstream
+  operators as well as gas distribution utilities across the United States. Project
+  Canary has raised $121M (Series B) and was surfaced as a portfolio company of Insight
+  Partners and Techstars. No public API, developer portal, SDK, or OpenAPI is published
+  at this time; this profile captures identity, a verbatim llms.txt, and security posture.
 url: https://raw.githubusercontent.com/api-evangelist/project-canary/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.projectcanary.com/wp-content/uploads/2024/09/Project-Canary-Logo-2024@2x.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -13,9 +35,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Climate Technology
+- Emissions
+- Methane
+- Energy
+- Oil and Gas
+- Utilities
+- Environmental Data
+- Sustainability
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,20 @@ maintainers:
 common:
 - type: Website
   url: https://www.projectcanary.com/
+- type: Blog
+  url: https://www.projectcanary.com/blog/
+- type: Support
+  url: https://www.projectcanary.com/contact-project-canary/
+- type: PrivacyPolicy
+  url: https://www.projectcanary.com/privacy-policy/
+- type: LLMsTxt
+  url: llms/project-canary-llms.txt
+- type: WellKnown
+  url: well-known/project-canary-well-known.yml
+- type: DomainSecurity
+  url: security/project-canary-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

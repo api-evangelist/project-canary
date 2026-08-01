@@ -1,0 +1,14 @@
+{
+  "repo": "project-canary",
+  "feeds": [
+    {
+      "source": "https://www.projectcanary.com/",
+      "feed_url": "https://www.projectcanary.com/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-07-25T15:00:33Z"
+}

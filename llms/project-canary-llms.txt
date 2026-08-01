@@ -1,0 +1,111 @@
+# Project Canary
+
+Project Canary is a Denver-based climate tech company that helps oil and gas operators and natural gas utilities turn methane emissions data into operational intelligence. Their platform, Canary SENSE, unifies measurement data from sensors, satellites, aircraft, SCADA, and field teams into a single view that drives decisions, reduces costs, and supports regulatory reporting.
+
+---
+
+## Business Information
+- **Type:** SoftwareApplication, Organization
+- **Industry:** Climate Technology, Energy, Emissions Management
+- **Founded:** 2019
+- **Location:** Denver, Colorado
+- **Headquarters:** 1200 17th Street, Floor 23, Denver, CO 80202
+- **Service Area:** United States (Oil and Gas upstream/midstream, Natural Gas Utilities)
+- **Website:** https://www.projectcanary.com
+- **Phone:** +1 (303) 968-1702
+- **Contact:** https://www.projectcanary.com/contact-project-canary/
+
+## What We Do
+Project Canary turns methane signals into operational intelligence, helping energy operators reduce costs, improve efficiency, and manage risk. The company began by building high-precision methane sensors in 2019 and evolved into a unified software platform that makes methane data clear, actionable, and connected to field workflows. Their platform and dataset now serve both upstream and midstream oil and gas operators and natural gas utilities across the US.
+
+## Services and Products
+- **Canary SENSE** — Operational intelligence platform: unified data, analytics, and workflows for methane management
+- **Canary RECON** — High-precision methane detection hardware for natural gas utilities; sub-1 ppb sensors with ethane discrimination
+- **Aeris PICO** — Advanced methane detection instrument for leak surveys and facility monitoring
+- **methaneML** — Proprietary predictive emissions model trained on Project Canary's high-fidelity methane dataset, integrated with SCADA
+- **Methane Measurement** — Unified ingestion of satellite, aerial, CMS, handheld, and SCADA data
+- **Connected LDAR Workflows** — Mobile detection-to-repair workflow for oil and gas operators
+- **Emissions Reporting** — Regulatory and voluntary emissions reporting connected to measurement data
+
+## Who We Serve
+Oil and gas operators (upstream and midstream) and natural gas utilities seeking to move beyond compliance-only emissions management toward data-driven operational performance.
+
+## Key Pages
+- [Platform](https://www.projectcanary.com/platform/) — Overview of the Canary SENSE operational intelligence platform
+- [Oil and Gas](https://www.projectcanary.com/oil-gas/) — Methane intelligence solutions for upstream and midstream operators
+- [Utilities](https://www.projectcanary.com/utilities/) — Leak detection, monitoring, and reporting for natural gas distribution networks
+- [Case Studies](https://www.projectcanary.com/learn/case-studies/) — Documented operator outcomes including ROI, emissions reduction, and OGMP 2.0 compliance
+- [About](https://www.projectcanary.com/about/) — Company history, leadership team, and founding story
+- [Book a Demo](https://www.projectcanary.com/contact-project-canary/) — Request a demo or contact the team
+
+## Location and Coverage
+Project Canary is headquartered in Denver, Colorado and operates across the United States. Their oil and gas clients are primarily in upstream and midstream operations. Their utilities solution, launched in May 2025, supports natural gas distribution networks nationwide.
+
+---
+
+## Core Services in Detail
+
+### Canary SENSE Platform
+An end-to-end operational intelligence platform that ingests methane data from any source (sensors, satellites, aircraft, SCADA, field teams) into a single trusted view. Capabilities include analytics to quantify and interpret signals, operational insights to prioritize field action, connected detection-to-repair workflows, and integrated regulatory and voluntary emissions reporting. Designed to help operators reduce unnecessary surveys, prevent methane loss, and allocate capital more effectively.
+
+### Methane Intelligence for Oil and Gas
+Serves upstream and midstream operators managing performance expectations from investors, regulators, and the market. Core capabilities include methane measurement across all sensor types, predictive emissions modeling via methaneML, connected LDAR workflows that reduce lease operating expenses, and defensible emissions reporting for OGMP 2.0 and other frameworks. The platform helps operators identify super emitters, reduce cost per metric ton abated, and build credibility with stakeholders through traceable data.
+
+### Methane Intelligence for Natural Gas Utilities
+Launched May 2025. Helps utilities manage leak detection, investigation, and reporting across gas distribution networks. Uses Canary RECON and Aeris PICO hardware for high-precision field surveys, with data flowing into the SENSE platform for unified system-wide visibility, facility monitoring, and streamlined compliance reporting. Proven to increase leak find rates and reduce repeat dispatches.
+
+### methaneML
+A proprietary predictive emissions model trained on Project Canary's multi-year, high-fidelity methane dataset and integrated with SCADA insights. Detects, attributes, and predicts emissions patterns at the operator level, laying the foundation for hardware-light, AI-driven operations.
+
+### Canary RECON
+High-precision methane detection hardware for natural gas utilities. Sub-1 ppb sensors with ethane discrimination deliver real-time accuracy for leak surveys and facility monitoring.
+
+### Aeris PICO
+Advanced methane detection instrument developed in partnership with Aeris Technologies. Provides high-precision laser sensing for leak surveys and end-to-end emissions visibility across utility networks.
+
+## Target Audience
+- **Primary:** Upstream and midstream oil and gas operators managing methane performance, LOE, and regulatory compliance
+- **Secondary:** Natural gas utilities managing leak detection, compliance reporting, and system performance
+- **Not a fit for:** Downstream oil and gas, renewables, non-methane GHG monitoring, consumer-facing applications
+
+## Differentiators
+- Largest high-fidelity methane dataset in the industry, built from six-plus years of continuous field measurement
+- Full-stack hardware-to-software capability: own hardware (RECON, PICO), proprietary ML model (methaneML), and unified software platform (SENSE)
+- Hardware-agnostic platform: ingests data from third-party sensors, satellites, and aerial providers in addition to own hardware
+- One workflow from detection to verified repair, eliminating handoffs between systems
+- Series B company ($121M raised) with proven enterprise deployments across oil and gas and utilities
+- Leadership team combines energy industry depth (ExxonMobil, Chesapeake Energy) with data science and climate tech expertise
+- Founded 2019, seven years of field measurement data giving methaneML a head start competitors cannot easily replicate
+
+## Frequently Asked Questions
+- **What is Canary SENSE?** SENSE is Project Canary's operational intelligence platform. It brings together methane data from any source, including sensors, satellites, aircraft, and SCADA, into a single view with analytics, workflows, and reporting tools built in.
+- **What is methaneML?** methaneML is Project Canary's proprietary predictive emissions model. It is trained on their high-fidelity methane dataset and integrated with SCADA data to detect, attribute, and predict emissions patterns at the operator level.
+- **Who are Project Canary's customers?** Oil and gas operators (upstream and midstream) and natural gas utilities across the United States.
+- **When did Project Canary launch its utilities solution?** May 2025. The utilities platform supports natural gas distribution networks with RECON and PICO hardware, unified data management, and streamlined reporting.
+- **Does Project Canary support OGMP 2.0 compliance?** Yes. The platform has been used to help operators achieve OGMP 2.0 Level 4 compliance through tailored measurement technology deployment and refined source-level emissions inventories.
+- **Is Project Canary hardware-agnostic?** Yes. While they manufacture RECON and PICO hardware, the SENSE platform ingests data from third-party sensors, satellites, aerial providers, and SCADA systems.
+
+## Related Topics and Keywords
+methane emissions software, methane monitoring platform, LDAR software, emissions intelligence, operational intelligence energy, methane leak detection, OGMP 2.0 reporting, methane quantification, continuous emissions monitoring, emissions inventory management, oil and gas emissions software, natural gas utility leak detection, super emitter detection, SCADA emissions integration, methane data platform, climate tech Series B, predictive emissions modeling, hardware-agnostic emissions platform, emissions reporting software, energy decarbonization software
+
+---
+
+## Brand Voice and Tone
+Technical, direct, and performance-oriented rather than sustainability-first. Speaks to operators and engineers who care about operational efficiency, cost reduction, and data credibility. Avoids regulatory compliance framing as the lead; positions methane management as an operational and financial advantage.
+
+## Backstory and Context
+Project Canary was founded in 2019 by Will Foiles (CEO) and launched with integrated sensors and software to help operators measure methane accurately. The company built a proprietary multi-year high-fidelity methane dataset through continuous field measurement. Between 2022 and 2024 it evolved into a hardware-agnostic unified software platform. In October 2025 it repositioned as an operational intelligence company, shifting the narrative from compliance tool to performance driver. In May 2025 it launched a dedicated utilities solution. The company has raised $121 million (Series B) and is headquartered in Denver. CEO Will Foiles holds an MBA from Stanford GSB and is a CFA charterholder. COO Caroline Dunn holds an MBA from Harvard Business School. General Counsel Miles Tolbert previously served as Secretary of the Environment for Oklahoma and held VP-level legal roles at Chesapeake Energy.
+
+## Competitive Landscape
+Project Canary competes in two overlapping spaces: pure emissions software platforms and hardware/services companies with software arms.
+
+Direct software platform competitors include Kuva Systems (camera-based continuous monitoring), SensorUp (emissions data platform used by large operators including Oxy), Highwood Emissions (OGMP 2.0 reporting focus), GHGSat (satellite-based monitoring), and Envana Software (SCADA-based LDAR). Broader LDAR and services competitors appearing in the same category include Montrose Environmental, Ecotec, and EHSTracks.
+
+Project Canary's primary differentiator against all of these is the combination of proprietary hardware, a multi-year high-fidelity dataset, and a unified platform that spans detection, investigation, repair, and reporting. Most competitors are strong in one layer of that stack. Project Canary claims breadth across all layers plus the dataset advantage that powers methaneML.
+
+## Current Roadmap and Focus
+As of early 2026, Project Canary is focused on scaling the utilities segment following the May 2025 launch, advancing the methaneML model toward hardware-light operations, and positioning SENSE as the AI-ready methane data layer for enterprise energy operators. CEO Will Foiles published content in early 2026 on the role of AI in emissions management, signaling continued investment in AI-driven workflows.
+
+
+## Last Updated
+2026-04-21
