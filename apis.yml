@@ -14,6 +14,17 @@ description: >-
   Partners and Techstars. No public API, developer portal, SDK, or OpenAPI is published
   at this time; this profile captures identity, a verbatim llms.txt, and security posture.
 url: https://raw.githubusercontent.com/api-evangelist/project-canary/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
